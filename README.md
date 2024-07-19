@@ -10,9 +10,9 @@
 
 #### Check out my projects!
 
-* [Superstore Sales](https://github.com/mkim27/Superstore-KPIs) - A dynamic dashboard displaying crucial KPIs at a glance over 4 years of data.
+* [Superstore Sales](https://github.com/mkim27/Superstore-KPIs) - A dynamic dashboard displaying KPIs at a glance over 4 years of data, with analysis and recommended next steps.
 
-* [British Airways reviews](https://github.com/mkim27/British-Airway-review-analysis) - A dynamic dashboard that summarizes customer experiences and suggests next steps.
+* [British Airways reviews](https://github.com/mkim27/British-Airway-review-analysis) - A dynamic dashboard that summarizes hundreds of customer ratings and reviews, and suggests next steps with its findings.
 
 
 #### Connect with me!
