@@ -1,28 +1,26 @@
 # Hello, I'm Minjoo 👋
 
+I'm a software developer and data analyst, enthusiastic about finding data-driven insights.
 
-### I'm a software developer, data visualization enthusiast, and aspiring data analyst!
-
+## About Me
 * Languages: Python (pandas, numpy), SQL (PostgreSQL, MySQL), Javascript, HTML/CSS, R
-* Tools: Jupyter Notebook, Github, Tableau, SSMS
-* Education: Bachelors in Computer Science (University of Illinois)
+* Tools: Jupyter Notebook, Git/Github, Tableau, MS Office Suite (Excel, Powerpoint, Word) SSMS
+* Techniques: EDA, Statistical analysis, Data visualization, Documentation, Technical writing
+* Education: Bachelors in Computer Science from the University of Illinois at Urbana-Champaign
 
-
-#### Check out my projects!
-
-* [Superstore Sales](https://github.com/mkim27/Superstore-KPIs) - A dynamic dashboard displaying KPIs at a glance over 4 years of data, with analysis and recommended next steps.
-
-* [British Airways reviews](https://github.com/mkim27/British-Airway-review-analysis) - A dynamic dashboard that summarizes hundreds of customer ratings and reviews, and suggests next steps with its findings.
-
-
-#### Connect with me!
-
-<left>
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mkim3/">
+<a href="https://www.linkedin.com/in/mkim3/" style="text-decoration:none;">
     <img src="icons/linkedin-fill.svg" alt="My LinkedIn" width="30"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:minjookim0507@gmail.com">
+<a href="mailto:minjookim0507@gmail.com" style="text-decoration:none;">
     <img src="icons/mail-fill.svg" alt="My Email" width="30"/>
 </a>
-</left>
+
+## Data Projects
+
+### Reporting and Dashboards (SQL, Tableau, Excel)
+
+* [Insurance Analysis](https://github.com/mkim27/CuraSure_marketing_claims_analysis): Developed an interactive Tableau dashboard to report and analyze 70K+ insurance claims, leading to actionable insights for guiding future marketing and budget decisions.
+
+* [Marketing Analysis](https://github.com/mkim27/Electra-Electronics): Performed exploratory analysis and data validation for 100K+ sales records to developed an interactive Excel workbook report for an e-commerce company, using Excel and SQL (Google BigQuery).
+
+* [Customer Ratings Analysis](https://github.com/mkim27/British-Airway-review-analysis): Developed a dynamic Tableau report dashboard that summarizes thousands of customer ratings and reviews, and suggested next and most actionable steps to improve  customer satisfaction and ratings.
